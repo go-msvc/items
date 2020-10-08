@@ -1,0 +1,12 @@
+github.com/clbanning/mxj v1.8.4/go.mod h1:BVjHeAH+rl9rs6f+QIpeRl0tfu10SXn1pUSa5PVGJng=
+github.com/fsnotify/fsnotify v1.4.9 h1:hsms1Qyu0jgnwNXIxa+/V/PDsU6CfLf6CNO8H7IWoS4=
+github.com/fsnotify/fsnotify v1.4.9/go.mod h1:znqG4EE+3YCdAaPaxE2ZRY/06pZUdp0tY4IgpuI1SZQ=
+github.com/go-msvc/errors v0.0.0-20200923051340-b430f75e4310 h1:twnK1V6u95Cp930oadt2L5ymxxljECOaE6HwKuz0dKo=
+github.com/go-msvc/errors v0.0.0-20200923051340-b430f75e4310/go.mod h1:Q+R/tD81ObsvmuMsZ2qxgTQ6IItj9C52nMFsnlXHiFs=
+github.com/go-msvc/logger v0.0.0-20200921071849-c0ba6025fb9f h1:7wguzrXWRHNeQfZ/LK5yW0Xag644j/XhKo44uoo+bJo=
+github.com/go-msvc/logger v0.0.0-20200921071849-c0ba6025fb9f/go.mod h1:1d92/t6HRCrlSxL48lANZEVbWhPyGbnugbxJ6xs5J9g=
+github.com/jansemmelink/ms v0.0.0-20200920133023-6a7846a97da6/go.mod h1:Ge6mU3epZKb5F24/5wud9IIa04xRbm8y3W7uFA3tZUo=
+github.com/pkg/errors v0.9.1 h1:FEBLx1zS214owpjy7qsBeixbURkuhQAwrK5UwLGTwt4=
+github.com/pkg/errors v0.9.1/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINEl0=
+golang.org/x/sys v0.0.0-20191005200804-aed5e4c7ecf9 h1:L2auWcuQIvxz9xSEqzESnV/QN/gNRXNApHi3fYwl2w0=
+golang.org/x/sys v0.0.0-20191005200804-aed5e4c7ecf9/go.mod h1:h1NjWce9XRLGQEsW7wpKNCjG9DtNlClVuFLEZdDNbEs=
